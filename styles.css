@@ -79,7 +79,7 @@ a {
 
 .section-title {
     text-align: center;
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
 }
 
 .section-title h2 {
@@ -244,8 +244,7 @@ a {
    Sections Layout
    ========================================================================== */
 section {
-    min-height: 100vh;
-    padding: 9rem 7% 5rem;
+    padding: 5rem 7% 3rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -704,7 +703,7 @@ footer p {
     }
 
     section {
-        padding: 7rem 5% 4rem;
+        padding: 4rem 5% 2.5rem;
     }
 
     .hero {
